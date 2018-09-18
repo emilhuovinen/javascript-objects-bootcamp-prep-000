@@ -13,4 +13,4 @@ var removeFromPlaylist = function (artist) {
   return playlist
 }
 
-updatePlaylist(playlist, artistName, songTitle);
+updatePlaylist(playlist, 'Phil Ochs', songTitle);
