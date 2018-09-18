@@ -1,5 +1,5 @@
 var playlist = {
-  redHotChiliPeppers: "Snow",
+['Slowdive']: "Snow",
   ladyGaga: "Pokerface"
 };
 
